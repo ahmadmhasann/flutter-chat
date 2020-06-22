@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "383082460454",
+    "firebase_url": "https://reservoir-chat.firebaseio.com",
+    "project_id": "reservoir-chat",
+    "storage_bucket": "reservoir-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383082460454:android:21c6ea579bd703e20d7de7",
+        "android_client_info": {
+          "package_name": "com.amhapps.reservoir_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383082460454-098rn76r4ic1qtp12hqg9trf5lfm975t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3GBOoaOFh73Hkg-t5h4OQti0RvyhNSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383082460454-098rn76r4ic1qtp12hqg9trf5lfm975t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
